@@ -1,0 +1,5 @@
+UP,SA,DisplayName,GivenName,Surname,AccountPassword,ChangePasswordAtLogon,Enabled,City,State
+BobS@Scripting.com,BobS,Bob Simmons,Bob,Simmons,Password01,1,1,Osage,IA
+MaryT@Scripting.com,MaryT,Mary Thompson,Mary,Thompson,Password01,0,1,Waterloo,IA
+UserPrincipalName,SamAccountName,DisplayName,GivenName,Surname,AccountPassword,ChangePasswordAtLogon,Enabled,State,
+UserPrincipalName,SamAccountName,DisplayName,GivenName,Surname,AccountPassword,ChangePasswordAtLogon,Enabled,State,
