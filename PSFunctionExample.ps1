@@ -89,6 +89,7 @@
         $StopWatch.Stop()
         Write-Verbose "Metadata trawling complete. Script took $($StopWatch.Elapsed.TotalMilliseconds) ms to complete."
         Return $Files | Sort-Object -Property Path
+        Write-output "Something I added"
     }
 }
 #Contact UsTerms of UsePrivacy Policy
